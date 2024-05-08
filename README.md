@@ -81,7 +81,7 @@ To use the run and build scripts ("ams" and "ams_build" in Linux - "ams.bat" and
 
 
 Owen Turing Machine Simulator exporter information:
-Machines can be exported to the Owen TMS via [ File -> Export OwenTMS ... ]. The Turing Machine is constructed in the following manor:
+Machines can be exported to the Owen TMS via [ File -> Export OwenTMS ... ]. The Turing Machine is constructed in the following manner:
 
 1. Moves the head to the "0" directly following the desired block.
 2. Performs the desired action:
